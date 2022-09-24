@@ -1,0 +1,13 @@
+---
+- - :permit
+  - Apache 2.0
+  - :who: MalanB
+    :why: This license is allowed as per OSC policy
+    :versions: []
+    :when: 2022-09-24 05:09:15.044629000 Z
+- - :permit
+  - MIT
+  - :who: MalanB
+    :why: This license is allowed as per OSC policy 
+    :versions: []
+    :when: 2022-09-24 05:09:21.930191000 Z
